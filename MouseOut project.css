@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color:gainsboro;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    margin-top: 150px;
+    margin-left:240px ;
+    height: 250px;
+    width: 900px;
+    padding: 20px;
+    background-color:red;
+    border-radius: 10px;
+    box-shadow: cyan 4px 4px, blueviolet -4px -4px ;
+}
+p{
+    font-size: 20px;
+    color:white;
+}
+h1{
+    color: whitesmoke;
+    
+}
